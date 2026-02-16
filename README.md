@@ -1,2 +1,2 @@
 # testrepo
-a repository for learning git
+a repository for learning git and github
